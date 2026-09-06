@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ru.netology.qa.AppiumHomeworkTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2026-09-06T06:18:06" hostname="DESKTOP-NLKC71Q" time="23.171">
+  <properties/>
+  <testcase name="testEmptyInputDoesNotChangeText()" classname="ru.netology.qa.AppiumHomeworkTest" time="11.176"/>
+  <testcase name="testOpenTextInAnotherActivity()" classname="ru.netology.qa.AppiumHomeworkTest" time="11.994"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[сент. 06, 2026 9:18:13 AM io.appium.java_client.remote.AppiumCommandExecutor$1 lambda$0
+INFO: Detected dialect: W3C
+сент. 06, 2026 9:18:24 AM io.appium.java_client.remote.AppiumCommandExecutor$1 lambda$0
+INFO: Detected dialect: W3C
+]]></system-err>
+</testsuite>
