@@ -41,11 +41,9 @@ public class AppiumHomeworkTest {
     }
 
     @Test
-    public void testOpenTextInAnotherActivity() throws InterruptedException {
+    public void testOpenTextInAnotherActivity() { 
         mainScreen.userInput.sendKeys("Netology Appium Test");
         mainScreen.buttonActivity.click();
-
-        Thread.sleep(2000);
 
         assertEquals("Netology Appium Test", mainScreen.newActivityText.getText());
     }
